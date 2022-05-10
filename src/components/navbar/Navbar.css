@@ -1,0 +1,14 @@
+.navbar{
+    background: #648e2e;
+}
+.navbar li a {
+    color: #fffff1;
+}
+.navbar .navbar-brand{
+    color: #fffff1;
+}
+.navbar__Container img{
+    overflow: hidden;
+    width: 100%;
+    margin: .5rem 0;
+}

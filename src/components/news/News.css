@@ -1,0 +1,16 @@
+.news_container .btn{
+    background: #648e2e;
+    color: #fffff1;
+}
+
+.news_container .card{
+    border: 2px solid lightgray;
+    border-radius: 2px;
+}
+.news_container .card h5{
+    color: #9a0000;
+}
+.news_container .card p{
+    color: #9a5877;
+    opacity: .7;
+}
